@@ -5,7 +5,7 @@
 你看了看面前众多高耸的大厦，但是，这些大厦，哪里有你的立足之地呢？
 你就这样漫无目的的走着，看着，你目光几乎快要变得朦胧了...
 
-![img](https://cdn.nlark.com/yuque/0/2021/png/317613/1630722835419-adbf714f-e523-4306-acb2-5dfb2761508e.png?x-oss-process=image%2Fresize%2Cw_500%2Climit_0)
+![img](img/1.png)
 
 突然，你包里叮铃铃想起了电话...
 
