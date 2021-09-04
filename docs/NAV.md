@@ -1,5 +1,5 @@
 # YDoc
 
-![logo](/documents/logo/myfarm.png)
+![logo](logo/myFarm.png)
 
 - [百科全书](/documents/index.md)
